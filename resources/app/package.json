@@ -1,0 +1,6 @@
+{
+  "name": "global-news-runtime-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "productName": "全球新闻速览"
+}
